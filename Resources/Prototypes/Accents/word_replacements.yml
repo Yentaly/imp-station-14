@@ -593,7 +593,7 @@
   wordReplacements:
     accent-german-words-1: accent-german-words-replace-1
     accent-german-words-1-2: accent-german-words-replace-1
-    accent-german-words-2: accent-german-words-replace-2
+    #accent-german-words-2: accent-german-words-replace-2 imp edit, moved to the back to make another replacement actually work
     accent-german-words-3: accent-german-words-replace-3
     accent-german-words-4: accent-german-words-replace-4
     accent-german-words-5: accent-german-words-replace-5
@@ -673,6 +673,7 @@
     accent-german-words-63-4: accent-german-words-replace-63
     accent-german-words-63-5: accent-german-words-replace-63
     accent-german-words-64: accent-german-words-replace-64
+    accent-german-words-64-2: accent-german-words-replace-64
     accent-german-words-65: accent-german-words-replace-65
     accent-german-words-66: accent-german-words-replace-66
     accent-german-words-67: accent-german-words-replace-67
@@ -718,6 +719,7 @@
     accent-german-words-103: accent-german-words-replace-103
     accent-german-words-104: accent-german-words-replace-104
     accent-german-words-105: accent-german-words-replace-105
+    accent-german-words-2: accent-german-words-replace-2
     #imp end
 
 - type: accent

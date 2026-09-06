@@ -2,8 +2,7 @@ accent-german-words-1 = yes
 accent-german-words-1-2 = yea
 accent-german-words-replace-1 = ja
 
-accent-german-words-2 = no
-accent-german-words-replace-2 = nein
+# imp edit, moved to the end of file to make another replacement actually work
 
 accent-german-words-3 = the
 accent-german-words-replace-3 = ze
@@ -212,6 +211,7 @@ accent-german-words-63-5 = you are welcome
 accent-german-words-replace-63 = bitte
 
 accent-german-words-64 = no problem
+accent-german-words-64-2 = np
 accent-german-words-replace-64 = kein problem
 
 accent-german-words-65 = beast
@@ -340,4 +340,7 @@ accent-german-words-replace-104 = muskel
 
 accent-german-words-105 = muscles
 accent-german-words-replace-105 = muskeln
+
+accent-german-words-2 = no
+accent-german-words-replace-2 = nein
 # imp end
