@@ -8,9 +8,9 @@ accent-german-words-replace-2 = nein
 accent-german-words-3 = the
 accent-german-words-replace-3 = ze
 
+# imp, edited the ss to ß cause thats how its written
 accent-german-words-4 = shit
 accent-german-words-replace-4 = scheiße
-# imp, edited the ss to ß cause thats how its written
 
 accent-german-words-5 = sausage
 accent-german-words-replace-5 = wurst
@@ -47,13 +47,13 @@ accent-german-words-replace-14 = mein
 accent-german-words-15 = here
 accent-german-words-replace-15 = hier
 
+# imp changed fully from idiot > dummkopf to fool > Tor
 accent-german-words-16 = fool
 accent-german-words-replace-16 = tor
-# imp changed fully from idiot > dummkopf to fool > Tor
 
+# imp changed fully from idiot > dummköpfe to fools > Toren
 accent-german-words-17 = fools
 accent-german-words-replace-17 = toren
-# imp changed fully from idiot > dummköpfe to fools > Toren
 
 accent-german-words-18 = butterfly
 accent-german-words-replace-18 = schmetterling

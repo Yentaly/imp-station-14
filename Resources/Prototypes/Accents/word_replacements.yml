@@ -666,7 +666,8 @@
     accent-german-words-61-3: accent-german-words-replace-61
     accent-german-words-61-4: accent-german-words-replace-61
     accent-german-words-62: accent-german-words-replace-62
-    accent-german-words-63: accent-german-words-replace-63 # imp start
+    # imp start
+    accent-german-words-63: accent-german-words-replace-63
     accent-german-words-63-2: accent-german-words-replace-63
     accent-german-words-63-3: accent-german-words-replace-63
     accent-german-words-63-4: accent-german-words-replace-63
@@ -717,7 +718,7 @@
     accent-german-words-103: accent-german-words-replace-103
     accent-german-words-104: accent-german-words-replace-104
     accent-german-words-105: accent-german-words-replace-105
-#imp end
+    #imp end
 
 - type: accent
   id: russian
