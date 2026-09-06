@@ -3,6 +3,8 @@ accent-german-words-1-2 = yea
 accent-german-words-replace-1 = ja
 
 # imp edit, moved to the end of file to make another replacement actually work
+# accent-german-words-2 = no, imp edit
+# accent-german-words-replace-2 = nein, imp edit
 
 accent-german-words-3 = the
 accent-german-words-replace-3 = ze
