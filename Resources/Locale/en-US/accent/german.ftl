@@ -123,9 +123,10 @@ accent-german-words-replace-38 = artefakt
 accent-german-words-39 = dumb
 accent-german-words-replace-39 = dumm
 
+# imp changed to idiotisch from doof
 accent-german-words-40 = stupid
 accent-german-words-replace-40 = idiotisch
-# imp changed to idiotisch from doof
+
 accent-german-words-41 = wonderful
 accent-german-words-replace-41 = wunderbar
 
@@ -151,9 +152,9 @@ accent-german-words-replace-47 = bier
 accent-german-words-48 = hi
 accent-german-words-replace-48 = hallo
 
+#imp changes to hallo from guten tag
 accent-german-words-49 = hello
 accent-german-words-replace-49 = hallo
-#imp changes to hallo from guten tag
 
 accent-german-words-50 = ambulance
 accent-german-words-replace-50 = krankenwagen
